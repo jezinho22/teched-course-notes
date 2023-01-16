@@ -4,7 +4,7 @@
 
 When I did this I just wanted something free and easy. Lighttable seemed like it would be, but there was too little support. A good thing was the integral browser window to run code in. But it was hard to run between files and in particular I could not access the console. Plus the extra stuff was not great because it is designed as a super lightweight editor. I need more support, though other editors do have a load of stuff I do not understand, use or probably need, which was also an appeal of Lighttable.
 
-Reading recommends: : 
+Reading recommends:    
 1.) code completion;   
 2.) syntax highlighting - colour-codes the code into parts of speech: eg variables, methods etc;   
 3.) a nice variety of themes (to reduce eye strain and fatigue); and    
