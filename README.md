@@ -1,10 +1,14 @@
-# reading-notes
-Hi. My name is Jez. I am a teacher.
+# Reading notes
+## About me   
+Hi. My name is Jez. I am a teacher. ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 I play banjo too.
+## What is this page?   
+This is my reading notes for the full stack bootcamp.   
 
-This is my reading notes for the full stack bootcamp.
+## Growth mindset   
+Growth mindset is most easily defined as the opposite of fixed mindset.   
+**Fixed mindset** is where you believe that talent/intelligence is innate and cannot be changed. "There is no point trying. I cannot do this. I don't have the intelligence that others have."
+**Growth mindset** believes that your brain is alomst infinitely plastic - it can change as you learn. But this is not easy nor even always comfortable, even though we are programmed to learn from birth. And this can lead some to a fixed mindset.
+It's not infinite, of course. And innate talents do exist, particularly in physical attributes. But we can change, if we are willing to learn.
 
-#Growth mindset
-Growth mindset is most easily defined as the opposite of fixed mindset.
-Fixed mindset is where you believe that talent/intelligence is innate and cannot be changed.
-Growth mindset believes that your brain is alomst infitielty plastic - can change as you learn. But this is not easy nor even always comfortable, even though we are programmed to learn from birth
+> The hallmark of successful people is that they are always stretching themselves to learn new things. You don't know what your abilities are until you make a full commitment to developing them. **Carol Dweck**
