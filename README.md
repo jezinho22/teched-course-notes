@@ -11,6 +11,7 @@
 Hi. My name is Jez. I am a teacher. I have been a teacher for 30 years. And now it's time for something a bit different.   
 
 I play banjo too.
+
 ## What is this page?   
 This is my reading notes for the full stack bootcamp.   
 
