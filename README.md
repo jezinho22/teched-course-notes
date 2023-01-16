@@ -1,7 +1,10 @@
 # Reading notes
-## About me   
-Hi. My name is Jez. I am a teacher. 
-[](https://github.com/jezinho22/reading-notes/blob/main/IMG_20191005_211700684%202.jpg)
+<img src="https://github.com/jezinho22/reading-notes/blob/main/IMG_20191005_211700684%202.jpg" width="100" height="100"> 
+
+## About me 
+  
+Hi. My name is Jez. I am a teacher. I have been a teacher for 30 years. And now it's time for something a bit different.   
+
 I play banjo too.
 ## What is this page?   
 This is my reading notes for the full stack bootcamp.   
