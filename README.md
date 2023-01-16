@@ -1,5 +1,10 @@
 # Reading notes
+
 <img src="https://github.com/jezinho22/reading-notes/blob/main/IMG_20191005_211700684%202.jpg" width="100" height="100"> 
+
+## Table of contents
+
+[Class 02](https://jezinho22.github.io/reading-notes/class-02)
 
 ## About me 
   
