@@ -1,6 +1,6 @@
 # Reading notes
 
-<img src="https://github.io/jezinho22/reading-notes/blob/main/IMG_20191005_211700684%202.jpg" width="250" height="250"> 
+![Photo of Jez](IMG_20191005_211700684.jpg)
 
 ## Table of contents
 [Class 01](https://jezinho22.github.io/reading-notes/102-notes/class-01)  
