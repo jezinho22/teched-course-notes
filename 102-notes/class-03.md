@@ -1,6 +1,7 @@
 ## Commands for git
 
-Main thing is A - C - P:  **add - commit - push**
+Main thing is A - C - P:  **add - commit - push**  
+Add to git. Commit changes to git. Push to git*hub*.
 + *git clone* & *https ...* - to add repository from github online to local machine   
 + *git remote -v* - you can view all the remote URLs next to their corresponding short names.  
 + *git add* & filename - to get ready to commit  
