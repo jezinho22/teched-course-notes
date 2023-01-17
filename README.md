@@ -3,14 +3,16 @@
 <img src="https://github.com/jezinho22/reading-notes/blob/main/IMG_20191005_211700684%202.jpg" width="100" height="100"> 
 
 ## Table of contents
-[Class 01](https://jezinho22.github.io/reading-notes/class-01)  
-[Class 02](https://jezinho22.github.io/reading-notes/class-02)  
-[Class 03](https://jezinho22.github.io/reading-notes/class-03)
-[Class 04](https://jezinho22.github.io/reading-notes/class-04)
-[Class 05](https://jezinho22.github.io/reading-notes/class-05)
-[Class 06](https://jezinho22.github.io/reading-notes/class-06)
-[Class 07](https://jezinho22.github.io/reading-notes/class-07)
-[Class 08](https://jezinho22.github.io/reading-notes/class-08)
+[Class 01](https://jezinho22.github.io/reading-notes/102-notes/class-01)  
+[Class 02](https://jezinho22.github.io/reading-notes/102-notes/class-02)  
+[Class 03](https://jezinho22.github.io/reading-notes/102-notes/class-03)  
+[Class 04](https://jezinho22.github.io/reading-notes/102-notes/class-04)  
+[Class 05](https://jezinho22.github.io/reading-notes/102-notes/class-05)  
+[Class 06](https://jezinho22.github.io/reading-notes/102-notes/class-06)  
+[Class 07](https://jezinho22.github.io/reading-notes/102-notes/class-07)  
+[Class 08](https://jezinho22.github.io/reading-notes/102-notes/class-08)  
+
+
 
 ## About me 
   
