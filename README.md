@@ -22,3 +22,29 @@ I also speak Portuguese well, French quite well, and Spanish & Italian a bit.
 
 ## What is this page?   
 This is the index for my reading notes for the full stack bootcamp.   
+
+
+<table>
+  <thead>
+    <tr>
+      <th width="500px">102 course</th>
+      <th width="500px">201 course</th>
+    </tr>
+  </thead>
+  <tbody>
+  <tr width="600px">
+    <td><a href="https://jezinho22.github.io/reading-notes/102-notes/class-01">Class 01</td>
+    <td><a href="https://jezinho22.github.io/reading-notes/201-notes/class-01">Class 01</td>
+  </tr>
+  <tr width="600px">
+    <td><a href="https://jezinho22.github.io/reading-notes/102-notes/class-01">Class 02</td>
+    <td><a href="https://jezinho22.github.io/reading-notes/201-notes/class-01">Class 02</td>
+  </tr>  <tr width="600px">
+    <td><a href="https://jezinho22.github.io/reading-notes/102-notes/class-01">Class 03</td>
+    <td><a href="https://jezinho22.github.io/reading-notes/201-notes/class-01">Class 03</td>
+  </tr>  <tr width="600px">
+    <td><a href="https://jezinho22.github.io/reading-notes/102-notes/class-01">Class 04</td>
+    <td><a href="https://jezinho22.github.io/reading-notes/201-notes/class-01">Class 04</td>
+  </tr>
+  </tbody>
+</table>
