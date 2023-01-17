@@ -33,18 +33,20 @@ This is the index for my reading notes for the full stack bootcamp.
   </thead>
   <tbody>
   <tr width="600px">
-    <td><a href="https://jezinho22.github.io/reading-notes/102-notes/class-01">Class 01</td>
-    <td><a href="https://jezinho22.github.io/reading-notes/201-notes/class-01">Class 01</td>
+    <td><a href="https://jezinho22.github.io/reading-notes/102-notes/class-01">Class 01</a></td>
+    <td><a href="https://jezinho22.github.io/reading-notes/201-notes/class-01">Class 01</a></td>
   </tr>
   <tr width="600px">
-    <td><a href="https://jezinho22.github.io/reading-notes/102-notes/class-01">Class 02</td>
-    <td><a href="https://jezinho22.github.io/reading-notes/201-notes/class-01">Class 02</td>
-  </tr>  <tr width="600px">
-    <td><a href="https://jezinho22.github.io/reading-notes/102-notes/class-01">Class 03</td>
-    <td><a href="https://jezinho22.github.io/reading-notes/201-notes/class-01">Class 03</td>
-  </tr>  <tr width="600px">
-    <td><a href="https://jezinho22.github.io/reading-notes/102-notes/class-01">Class 04</td>
-    <td><a href="https://jezinho22.github.io/reading-notes/201-notes/class-01">Class 04</td>
+    <td><a href="https://jezinho22.github.io/reading-notes/102-notes/class-01">Class 02</a></td>
+    <td><a href="https://jezinho22.github.io/reading-notes/201-notes/class-01">Class 02</a></td>
+  </tr>  
+  <tr width="600px">
+    <td><a href="https://jezinho22.github.io/reading-notes/102-notes/class-01">Class 03</a></td>
+    <td><a href="https://jezinho22.github.io/reading-notes/201-notes/class-01">Class 03</a></td>
+  </tr>  
+  <tr width="600px">
+    <td><a href="https://jezinho22.github.io/reading-notes/102-notes/class-01">Class 04</a></td>
+    <td><a href="https://jezinho22.github.io/reading-notes/201-notes/class-01">Class 04</a></td>
   </tr>
   </tbody>
 </table>
