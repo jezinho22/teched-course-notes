@@ -3,28 +3,6 @@
 ![Photo of Jez](IMG_20191005_211700684.jpg)
 
 ## Table of contents
-[Class 01](https://jezinho22.github.io/reading-notes/102-notes/class-01)  
-[Class 02](https://jezinho22.github.io/reading-notes/102-notes/class-02)  
-[Class 03](https://jezinho22.github.io/reading-notes/102-notes/class-03)  
-[Class 04](https://jezinho22.github.io/reading-notes/102-notes/class-04)  
-[Class 05](https://jezinho22.github.io/reading-notes/102-notes/class-05)  
-[Class 06](https://jezinho22.github.io/reading-notes/102-notes/class-06)  
-[Class 07](https://jezinho22.github.io/reading-notes/102-notes/class-07)  
-[Class 08](https://jezinho22.github.io/reading-notes/102-notes/class-08)  
-
-
-
-## About me 
-  
-Hi. My name is Jez. I am a primary teacher. I have been a teacher for 30 years. I am currently working part-time on PGCE training teachers - in music, computing and design technology. I also work with newly trained (Early Career) teachers and their mentors. And now it's time for something a bit different.   
-I play banjo in an Americana band called Brother Pit. But my favourite music would be reggae.  
-I also speak Portuguese well, French quite well, and Spanish & Italian a bit.  
-I like to cycle - within certain parameters: not too fast or too serious; always a loop, with minimal repeat of route; always with wind behind on the way home; ideally stop on a bridge to watch what passes below; 20 to 30 miles; always trying to go along a path/road/track I haven't been down before. And, as a salute to taking things seriously, I have a map where I have coloured in every road I have cycled along.  
-
-## What is this page?   
-This is the index for my reading notes for the full stack bootcamp.   
-
-
 <table>
   <thead>
     <tr>
@@ -96,3 +74,16 @@ This is the index for my reading notes for the full stack bootcamp.
 
   </tbody>
 </table>
+
+
+
+
+## About me 
+  
+Hi. My name is Jez. I am a primary teacher. I have been a teacher for 30 years. I am currently working part-time on PGCE training teachers - in music, computing and design technology. I also work with newly trained (Early Career) teachers and their mentors. And now it's time for something a bit different.   
+I play banjo in an Americana band called Brother Pit. But my favourite music would be reggae.  
+I also speak Portuguese well, French quite well, and Spanish & Italian a bit.  
+I like to cycle - within certain parameters: not too fast or too serious; always a loop, with minimal repeat of route; always with wind behind on the way home; ideally stop on a bridge to watch what passes below; 20 to 30 miles; always trying to go along a path/road/track I haven't been down before. And, as a sad but proud salute to taking things seriously, I have a map where I have coloured in every road I have cycled along.  
+
+## What is this page?   
+This is the index for my reading notes for the full stack bootcamp.   
