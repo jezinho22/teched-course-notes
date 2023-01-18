@@ -11,6 +11,8 @@ This made much more sense after 101:
 
 TIL:   
 + ! and tab gets a load of html set up by VSCode
++ *display: block* is default - block means full line occupied; *inline* means an element can share the line with other elements - like wrap text round image in Word etc. Ironically, for img the default is inline, and this mean it doesn't respond to margins - it needs to be inline-block
++ Definitely __write your html before your css__
 + Link to CSS like this and don't forget the rel=   
 ```
 <html>
