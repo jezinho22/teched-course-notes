@@ -12,3 +12,17 @@ So I knew = and ++, for instance. I expected +=
 + More about truthy and falsy - it seems like a by-product of js being so relaxed about datatypes
 + Strict and sloppy modes - it's quite neat that js can anticipate the sharks we create beneath the surface but I don't understand many of them yet
 + I need to brush up on logic some time - AND, OR, NOT - I do know it, and can work it out, but it can be disorientating
+
+## Loops   
+Repetition is a computer super-power. They never get bored. They never give up. They can repeat and repeat, and do it really quickly.  
+Nothing new in loops for me. Have to remember that js loops are different from VB or python, but I knew this.   
+
+**TIL**
++ Loops are conistent with other parts of js - conditions/inputs in brackets, actions in curly brackets
++ Goto is still sometimes needed (going old-skool) - in the form of breaks and labels to exit loops
++ I like for ... in - it's succinct and it means you go exactly through all the contents until they are done
+
+**IWTFO**
++ How to use break, label, continue - but maybe best when I actually need to
++ Which to use and when - especially for ... in, which doesn't always work for me so far
+
