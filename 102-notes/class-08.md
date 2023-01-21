@@ -8,6 +8,7 @@ So I knew = and ++, for instance. I expected +=
 - Having said that bitwise AND etc look really cool - comparing binaries
 - Nothing new in comparator operators
 - Nor in arithmetic operators
+- Ended up using || and && though or / and
 
 **IWTFO**
 
