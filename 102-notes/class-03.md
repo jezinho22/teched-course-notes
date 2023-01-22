@@ -2,7 +2,8 @@
 
 Main thing is A - C - P:  **add - commit - push**  
 Add to git. Commit changes to git. Push to git*hub*.
-+ *git clone* & *https ...* - to add repository from github online to local machine   
++ *git clone* & *https ...* - to add repository from github online to local machine
++ *cd* into new dir   
 + *git remote -v* - you can view all the remote URLs next to their corresponding short names.  
 + *git add* & filename - to get ready to commit  
 + *git commit* & filename (or & . for all files that are waiting) - to commit and don't forget to add a message using *-m "  "* Sometimes it can be good to add and commit separately, with different messages for different files eg css, html, js for same project
