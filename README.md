@@ -24,65 +24,52 @@ I like to cycle - within certain parameters: not too fast or too serious; always
   </thead>
   <tbody>
   <tr width="600px">
-    <td><a href="https://jezinho22.github.io/reading-notes/102-notes/class-01">Class 01</a></td>
-    <td><a href="https://jezinho22.github.io/reading-notes/201-notes/class-01">Class 01</a></td>
+    <td><a href="https://github.com/jezinho22/teched-102/blob/40a7cb73637dcc4630ec608b6778722ae522413f/102-class-01/class-01.md">Class 01</a></td>
+    <td><a href="https://github.com/jezinho22/teched-201/blob/57f39ddb7f16cd80a117e249b31c6bc02065b33c/201-class-01/readme.md">Class 01</a></td>
   </tr>
   <tr width="600px">
-    <td><a href="https://jezinho22.github.io/reading-notes/102-notes/class-02">Class 02</a></td>
-    <td><a href="https://jezinho22.github.io/reading-notes/201-notes/class-02">Class 02</a></td>
+    <td><a href="https://github.com/jezinho22/teched-102/blob/40a7cb73637dcc4630ec608b6778722ae522413f/102-class-02/class-02.md">Class 02</a></td>
+    <td><a href="https://github.com/jezinho22/teched-201/blob/57f39ddb7f16cd80a117e249b31c6bc02065b33c/201-class-02/readme.md">Class 02</a></td>
   </tr>  
   <tr width="600px">
-    <td><a href="https://jezinho22.github.io/reading-notes/102-notes/class-03">Class 03</a></td>
-    <td><a href="https://jezinho22.github.io/reading-notes/201-notes/class-03">Class 03</a></td>
-  </tr>  
+    <td><a href="https://github.com/jezinho22/teched-102/blob/40a7cb73637dcc4630ec608b6778722ae522413f/102-class-03/class-03.md">Class 03</a></td>
+    <td><a href="https://github.com/jezinho22/teched-201/blob/57f39ddb7f16cd80a117e249b31c6bc02065b33c/201-class-03/readme.md">Class 03</  </tr>  
   <tr width="600px">
-    <td><a href="https://jezinho22.github.io/reading-notes/102-notes/class-04">Class 04</a></td>
-    <td><a href="https://jezinho22.github.io/reading-notes/201-notes/class-04">Class 04</a></td>
-  </tr>
+    <td><a href="https://github.com/jezinho22/teched-102/blob/40a7cb73637dcc4630ec608b6778722ae522413f/102-class-04/class-04.md">Class 04</a></td>
+    <td><a href="https://github.com/jezinho22/teched-201/blob/57f39ddb7f16cd80a117e249b31c6bc02065b33c/201-class-04/readme.md">Class 04</  </tr>
       <tr width="600px">
-    <td><a href="https://jezinho22.github.io/reading-notes/102-notes/class-05">Class 05</a></td>
-    <td><a href="https://jezinho22.github.io/reading-notes/201-notes/class-05">Class 05</a></td>
-  </tr>
+    <td><a href="https://github.com/jezinho22/teched-102/blob/40a7cb73637dcc4630ec608b6778722ae522413f/102-class-05/class-05.md">Class 05</a></td>
+    <td><a href="https://github.com/jezinho22/teched-201/blob/57f39ddb7f16cd80a117e249b31c6bc02065b33c/201-class-05/readme.md">Class 05</  </tr>
   <tr width="600px">
-    <td><a href="https://jezinho22.github.io/reading-notes/102-notes/class-06">Class 06</a></td>
-    <td><a href="https://jezinho22.github.io/reading-notes/201-notes/class-06">Class 06</a></td>
-  </tr>  
+    <td><a href="https://github.com/jezinho22/teched-102/blob/40a7cb73637dcc4630ec608b6778722ae522413f/102-class-06/class-06">Class 06</a></td>
+    <td><a href="https://github.com/jezinho22/teched-201/blob/57f39ddb7f16cd80a117e249b31c6bc02065b33c/201-class-06/readme.md">Class 06</  </tr>  
   <tr width="600px">
-    <td><a href="https://jezinho22.github.io/reading-notes/102-notes/class-07">Class 07</a></td>
-    <td><a href="https://jezinho22.github.io/reading-notes/201-notes/class-07">Class 07</a></td>
-  </tr>  
+    <td><a href="https://github.com/jezinho22/teched-102/blob/40a7cb73637dcc4630ec608b6778722ae522413f/102-class-07/class-07">Class 07</a></td>
+    <td><a href="https://github.com/jezinho22/teched-201/blob/57f39ddb7f16cd80a117e249b31c6bc02065b33c/201-class-07/readme.md">Class 07</  </tr>  
   <tr width="600px">
-    <td><a href="https://jezinho22.github.io/reading-notes/102-notes/class-08">Class 08</a></td>
-    <td><a href="https://jezinho22.github.io/reading-notes/201-notes/class-08">Class 08</a></td>
-  </tr>
+    <td><a href="https://github.com/jezinho22/teched-102/blob/40a7cb73637dcc4630ec608b6778722ae522413f/102-class-08/class-08">Class 08</a></td>
+    <td><a href="https://github.com/jezinho22/teched-201/blob/57f39ddb7f16cd80a117e249b31c6bc02065b33c/201-class-08/readme.md">Class 08</  </tr>
   <tr width="600px">
     <td></td>
-    <td><a href="https://jezinho22.github.io/reading-notes/201-notes/class-09">Class 09</a></td>
-  </tr>
+    <td><a href="https://github.com/jezinho22/teched-201/blob/57f39ddb7f16cd80a117e249b31c6bc02065b33c/201-class-09/readme.md">Class 09</  </tr>
   <tr width="600px">
     <td></td>
-    <td><a href="https://jezinho22.github.io/reading-notes/201-notes/class-10">Class 10</a></td>
-  </tr>
+    <td><a href="https://github.com/jezinho22/teched-201/blob/57f39ddb7f16cd80a117e249b31c6bc02065b33c/201-class-10/readme.md">Class 10</  </tr>
   <tr width="600px">
     <td></td>
-    <td><a href="https://jezinho22.github.io/reading-notes/201-notes/class-11">Class 11</a></td>
-  </tr>
+    <td><a href="https://github.com/jezinho22/teched-201/blob/57f39ddb7f16cd80a117e249b31c6bc02065b33c/201-class-11/readme.md">Class 11</  </tr>
   <tr width="600px">
     <td></td>
-    <td><a href="https://jezinho22.github.io/reading-notes/201-notes/class-12">Class 12</a></td>
-  </tr>
+    <td><a href="https://github.com/jezinho22/teched-201/blob/57f39ddb7f16cd80a117e249b31c6bc02065b33c/201-class-12/readme.md">Class 12</  </tr>
   <tr width="600px">
     <td></td>
-    <td><a href="https://jezinho22.github.io/reading-notes/201-notes/class-13">Class 13</a></td>
-  </tr>
+    <td><a href="https://github.com/jezinho22/teched-201/blob/57f39ddb7f16cd80a117e249b31c6bc02065b33c/201-class-13/readme.md">Class 13</  </tr>
   <tr width="600px">
     <td></td>
-    <td><a href="https://jezinho22.github.io/reading-notes/201-notes/class-14">Class 14</a></td>
-  </tr>
+    <td><a href="https://github.com/jezinho22/teched-201/blob/57f39ddb7f16cd80a117e249b31c6bc02065b33c/201-class-14/readme.md">Class 14</  </tr>
   <tr width="600px">
     <td></td>
-    <td><a href="https://jezinho22.github.io/reading-notes/201-notes/class-15">Class 15</a></td>
-  </tr>
+    <td><a href="https://github.com/jezinho22/teched-201/blob/57f39ddb7f16cd80a117e249b31c6bc02065b33c/201-class-15/readme.md">Class 15</  </tr>
 
   </tbody>
 </table>
